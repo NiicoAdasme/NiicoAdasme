@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Adasme</h1>
-<h3 align="center">A passionate computer science student from Chile</h3>
+<h3 align="center">A passionate Computer Science and Engineering student from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niicoadasme&label=Profile%20views&color=0e75b6&style=flat" alt="niicoadasme" /> </p>
 
