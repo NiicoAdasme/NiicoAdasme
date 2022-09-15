@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niicoadasme&show_icons=true&locale=en" alt="niicoadasme" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicoadasme&hide=contribs,prs)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niicoadasme&" alt="niicoadasme" /></p>
