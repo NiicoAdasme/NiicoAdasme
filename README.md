@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/niicoadasme" target="blank"><img src="https://img.shields.io/twitter/follow/niicoadasme?logo=twitter&style=for-the-badge" alt="niicoadasme" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and cybersecurity**
+- 🌱 I’m currently learning **React Native and Google Cloud Platform**
 
 - 💬 Ask me about **React**
 
