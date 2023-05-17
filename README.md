@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and Google Cloud Platform**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and Express**
 
 - 📫 How to reach me **nicolas.wladimir@gmail.com**
 
