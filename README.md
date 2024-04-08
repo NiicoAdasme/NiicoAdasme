@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Camanchaca S.A**
 
-- 🌱 I’m currently learning **Spring Boot, Angular and Google Cloud Platform**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 🤝 I’m looking for help with **AI and Data Science**
 
